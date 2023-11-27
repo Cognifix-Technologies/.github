@@ -56,7 +56,7 @@ Are you interested in joining Cognifix-Technologies? Stay tuned to discover oppo
 
 For inquiries or more information about Cognifix Technologies, please reach out to us:
 
-- **Email:** [IELTS Proficiency](support@ieltsproficiency.com)
+- **Email:** support@ieltsproficiency.com
 - **Address:** Kurukshetra, Sector-8
 
 
