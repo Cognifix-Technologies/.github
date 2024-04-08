@@ -43,10 +43,10 @@ Meet the Cognifix-Technologies leadership team:
 
 - __Karman__: *The founder and the core member of the organization handling both operation and marketing*
 - __Gitesh__: *Co-Founder and the tech lead maintaining the implementation and innovation part of the development with ease allowing everyone to adapt to the organization's culture*
-- __Honey Patel__: *Front-End Developer with strong foundation in React.Js*
 
  Former Members:
-- __Shivam Pandey__: *Former Full Stack Developer*
+- __Honey Patel__: *Front-End Developer with strong foundation in React.Js*
+- __Shivam Pandey__: *Full Stack Developer*
 
 ## Careers
 
