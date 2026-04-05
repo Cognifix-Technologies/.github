@@ -5,23 +5,26 @@ Hi there 👋
 
 - [Introduction](#introduction)
 - [Company Overview](#company-overview)
+- [Our Vision](#our-vision)
 - [Company Culture](#company-culture)
 - [Our Mission](#our-mission)
-- [Team](#team)
 - [Careers](#careers)
 - [Contact](#contact)
 
-## Introduction 🙋‍♀️
+## Introduction
 
 Welcome to the official README of Cognifix-Technologies. In this document, you will discover key information about our company, our culture, and our mission. We aim to provide you with insights into who we are, what we stand for, and how you can become a part of our journey.
 
 ## Company Overview
 
-Cognifix-Technologies is a product based company dedicated to develope solutions that scale. Founded in 2019, we have grown to become a registered Venture. Our commitment to innovation, quality, and sustainability sets us apart in the Software industry.
+Cognifix Technologies Private Limited is a forward-thinking product ecosystem dedicated to bridging the gap between human intelligence and digital innovation. At the intersection of software excellence and future-ready hardware, we are building a metaverse of integrated solutions designed to solve complex problems with elegant, scalable technology.
+
+## Our Vision
+To create a seamless "Cognifix Universe" where our suite of products—ranging from advanced software platforms to tangible, high-tech hardware—works in harmony to empower industries and individuals alike.
 
 ## Company Culture
 
-At Cognifix, our culture is the heart of everything we do. We prioritize:
+At Cognifix, our culture is the heart of everything we do. We prioritise:
 
 - **Collaboration:** We believe in the power of teamwork and open communication. Our employees work together to achieve common goals.
 
@@ -35,28 +38,17 @@ At Cognifix, our culture is the heart of everything we do. We prioritize:
 
 ## Our Mission
 
-Our mission is to empower Organizations and individuals by creating and delivering robust software solutions that drive innovation, efficiency, and growth. We are committed to engineering excellence, leveraging cutting-edge technologies, and fostering a culture of continuous improvement to provide the best-in-class software products.
-
-## Team 👩‍💻 
-
-Meet the Cognifix-Technologies leadership team:
-
-- __Karman__: *The founder and the core member of the organization handling both operation and marketing*
-- __Gitesh__: *Co-Founder and the tech lead maintaining the implementation and innovation part of the development with ease allowing everyone to adapt to the organization's culture*
-
- Former Members:
-- __Honey Patel__: *Front-End Developer with strong foundation in React.Js*
-- __Shivam Pandey__: *Full Stack Developer*
+To engineer the fabric of tomorrow's technology. We strive to create an integrated universe of software and hardware products that simplify complexity, bridge the digital-physical divide, and set the gold standard for the next generation of product-based innovation.
 
 ## Careers
 
-Are you interested in joining Cognifix-Technologies? Stay tuned to discover opportunities to become a part of our dynamic team.
+Are you interested in joining Cognifix-Technologies? Stay tuned to discover opportunities to join our dynamic team.
 
 ## Contact
 
 For inquiries or more information about Cognifix Technologies, please reach out to us:
 
-- **Email:** support@ieltsproficiency.com
-- **Address:** Kurukshetra, Sector-8
+- **Email:** cognifix.tech@gmail.com
+- **Address:** HRY, IND - 136118 (Though we operate remotely 👩‍💻)
 
 
